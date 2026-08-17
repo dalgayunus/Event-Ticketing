@@ -105,5 +105,5 @@ Future Improvements:
 
 Author:
 
-Dalga Yunus,
+Dalgha Yunus,
 GitHub: https://github.com/dalgayunus
